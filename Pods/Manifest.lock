@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlignedCollectionViewFlowLayout (1.1.2)
+  - DTGradientButton (0.1.3)
+  - Hashtags (0.1.3):
+    - AlignedCollectionViewFlowLayout (~> 1.1.2)
+  - Kanna (5.0.0)
+  - ScrollingContentViewController (1.4.0)
+  - SwiftyStoreKit (0.15.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - DTGradientButton
+  - Hashtags
+  - Kanna (~> 5.0.0)
+  - ScrollingContentViewController
+  - SwiftyStoreKit
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlignedCollectionViewFlowLayout
+    - DTGradientButton
+    - Hashtags
+    - Kanna
+    - ScrollingContentViewController
+    - SwiftyStoreKit
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlignedCollectionViewFlowLayout: ee2ef451e741ec08f8e0967d828001e2f051c20a
+  DTGradientButton: 6f0f696cd433255d226c05e4ab047d991d13d4ef
+  Hashtags: 6e2fbcb3ec0cae07403aab96985a9497927a5962
+  Kanna: a32875df62975f8f4b871e933b4ea1a5c3b8be0f
+  ScrollingContentViewController: 1bff026d6f32c15489dcd22821911eda5fda3801
+  SwiftyStoreKit: 033d06b6f87955405d3f844a18a7687c2438592a
+
+PODFILE CHECKSUM: 6a9549612d38dc952d6763a484e913ee20fd3d63
+
+COCOAPODS: 1.8.4
